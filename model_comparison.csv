@@ -1,0 +1,4 @@
+Model,Accuracy,Macro F1,Weighted F1,Macro AUC,Params (M)
+MobileNetV3Large,0.7808,0.7291,0.7861,0.9429,3.12
+DenseNet121,0.6835,0.6525,0.6963,0.9213,7.1693
+EfficientNetB0,0.8175,0.7647,0.8229,0.9577,4.2142
